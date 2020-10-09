@@ -1,4 +1,6 @@
 ### Hi there 👋
+Android/iOS App Developer
+Flutter, Xamarin, Nodejs, Firebase, etc...
 
 <!--
 **unbam/unbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
