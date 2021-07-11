@@ -1,6 +1,13 @@
 ### Hi there 👋
-Android/iOS App Developer  
-Flutter, Xamarin, Nodejs, Firebase, etc...
+I'm Android/iOS App Developer 
+ - Flutter
+ - Xamarin
+ - Nodejs
+ - php
+ - Firebase
+
+I'm looking for a job in Flutter app development. 
+Please contact DM on Twitter.
 
 <!--
 **unbam/unbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
