@@ -9,9 +9,6 @@ I'm Android/iOS App Developer
  - Firebase
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=unbam&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unbam&layout=compact" />
 </a>
 
